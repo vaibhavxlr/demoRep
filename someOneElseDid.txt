@@ -1,0 +1,1 @@
+This file was added by another computer, so to test how 'pull works from remote to local repository'
